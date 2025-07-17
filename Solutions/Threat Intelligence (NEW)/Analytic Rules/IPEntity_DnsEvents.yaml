@@ -79,5 +79,7 @@ entityMappings:
     fieldMappings:
       - identifier: Url
         columnName: Url
+customDetails:
+    IndicatorId: Id  
 version: 1.4.6
 kind: Scheduled
